@@ -1,0 +1,15 @@
+Package: mypackage
+Title: Final Project: LIS5937)
+Version: 0.0.0.1000
+Authors@R: 
+    person(given = "Amir",
+           family = "Blair",
+           role = c("aut", "cre"),
+           email = "blaira1@usf.edu",
+Description: Final project for LIS5937.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: es
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
